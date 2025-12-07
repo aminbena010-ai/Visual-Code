@@ -1,0 +1,9 @@
+[theme]
+name = Web Dark Theme - JavaScript
+
+[colors]
+keyword = #FF6188   ; Para palabras clave como function, const, let
+operator = #FC9867  ; Para operadores como =, +, *
+string = #A9DC76     ; Para cadenas de texto "..." o '...'
+comment = #787C99    ; Para comentarios // ... o /* ... */
+function = #FFD866  ; Para nombres de funciones

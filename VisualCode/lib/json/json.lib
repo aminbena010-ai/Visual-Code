@@ -1,0 +1,8 @@
+[theme]
+name = Web Dark Theme - JSON
+
+[colors]
+keyword = #FF6188   ; Para true, false, null
+string = #A9DC76     ; Para las claves y valores de texto
+operator = #FC9867  ; Para llaves, corchetes, comas
+comment = #787C99    ; No se usa en JSON, pero se define

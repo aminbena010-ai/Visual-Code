@@ -1,0 +1,9 @@
+[theme]
+name = Web Dark Theme - PHP
+
+[colors]
+keyword = #FF6188   ; Para if, else, echo, function
+function = #FFD866  ; Para nombres de funciones y variables ($var)
+string = #A9DC76     ; Para cadenas de texto "..."
+comment = #787C99    ; Para comentarios // y /* ... */
+operator = #FC9867  ; Para operadores

@@ -1,0 +1,9 @@
+[theme]
+name = Default Dark Theme
+
+[colors]
+keyword = #F8F8F2
+operator = #F8F8F2
+string = #F8F8F2
+comment = #787C99
+function = #F8F8F2

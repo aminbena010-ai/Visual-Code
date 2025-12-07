@@ -1,0 +1,9 @@
+[theme]
+name = Dracula Inspired for Python
+
+[colors]
+keyword = #FF6188
+operator = #FC9867
+string = #A9DC76
+comment = #787C99
+function = #FFD866

@@ -1,0 +1,8 @@
+[theme]
+name = Web Dark Theme - CSS
+
+[colors]
+keyword = #FF6188   ; Para selectores como h1, .clase
+function = #A9DC76  ; Para propiedades como color, font-size
+string = #FFD866     ; Para valores en cadena "..."
+comment = #787C99    ; Para comentarios /* ... */

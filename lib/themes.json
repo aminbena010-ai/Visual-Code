@@ -1,0 +1,38 @@
+{
+    "default_theme": "lib/txt/txt.lib",
+    "default_name": "Texto Plano",
+    "languages": {
+        ".py": {
+            "name": "Python",
+            "theme": "lib/python/py.lib"
+        },
+        ".txt": {
+            "name": "Texto Plano",
+            "theme": "lib/txt/txt.lib"
+        },
+        ".html": {
+            "name": "HTML",
+            "theme": "lib/html/html.lib"
+        },
+        ".css": {
+            "name": "CSS",
+            "theme": "lib/css/css.lib"
+        },
+        ".js": {
+            "name": "JavaScript",
+            "theme": "lib/js/js.lib"
+        },
+        ".json": {
+            "name": "JSON",
+            "theme": "lib/json/json.lib"
+        },
+        ".md": {
+            "name": "Markdown",
+            "theme": "lib/md/md.lib"
+        },
+        ".php": {
+            "name": "PHP",
+            "theme": "lib/php/php.lib"
+        }
+    }
+}

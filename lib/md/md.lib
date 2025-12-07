@@ -1,0 +1,8 @@
+[theme]
+name = Web Dark Theme - Markdown
+
+[colors]
+keyword = #FF6188   ; Para encabezados (#), listas (*, -)
+string = #A9DC76     ; Para bloques de código (```) y código en línea (`)
+function = #FFD866  ; Para enlaces texto
+comment = #787C99    ; Para citas (>)

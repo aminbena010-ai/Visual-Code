@@ -1,0 +1,8 @@
+[theme]
+name = Web Dark Theme - HTML
+
+[colors]
+keyword = #FF6188   ; Para etiquetas como <div>, <p>
+function = #A9DC76  ; Para atributos como class, id
+string = #FFD866     ; Para el valor de los atributos "..."
+comment = #787C99    ; Para comentarios <!-- ... -->
